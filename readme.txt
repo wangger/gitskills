@@ -18,4 +18,9 @@ dev again 2
 
 try again 3
 
+<<<<<<< HEAD
 i am different with you 
+=======
+
+try agin 5
+>>>>>>> 597655580df741b69e9f945e5121690232898951
